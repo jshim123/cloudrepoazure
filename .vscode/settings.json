@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/035feed7-be2c-449d-ab27-4951b3071cb4/resourceGroups/cloudtech/providers/Microsoft.Web/sites/cloudtech",
+    "appService.deploySubpath": "."
+}
